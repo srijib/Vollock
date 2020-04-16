@@ -14,4 +14,4 @@ This is the launching screen which will have the list of all request around me (
 -	Medicine
 -	feed animals (just a thought)
  
- [<img src="SOW/screen 1.png">]
+ <img src="SOW/screen 1.png">
